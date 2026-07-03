@@ -44,21 +44,12 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&theme=github_dark&locale=tr">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&theme=github_dark&locale=tr&langs_count=8">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&locale=tr&langs_count=8" alt="En çok kullanılan diller" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&locale=tr&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&ring_color=10b981" alt="GitHub istatistikleri" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&locale=tr&langs_count=8&bg_color=00000000&title_color=10b981&text_color=8b949e" alt="En çok kullanılan diller" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&theme=dark&locale=tr">
-    <img src="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&locale=tr" alt="Katkı serisi" />
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&locale=tr&background=00000000&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=10b981&sideLabels=8b949e&sideNums=8b949e&dates=8b949e&stroke=8b949e" alt="Katkı serisi" />
 </p>
 
 ---
