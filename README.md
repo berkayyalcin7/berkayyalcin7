@@ -66,3 +66,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=berkayyalcin7&color=10b981&style=flat&label=Profil+g%C3%B6r%C3%BCnt%C3%BClenme" alt="Profil görüntülenme sayısı" />
 </p>
+
