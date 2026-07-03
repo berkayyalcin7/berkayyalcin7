@@ -44,12 +44,21 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&theme=transparent&locale=tr" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&theme=transparent&locale=tr&langs_count=8" alt="En çok kullanılan diller" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&theme=github_dark&locale=tr">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&locale=tr" alt="GitHub istatistikleri" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&theme=github_dark&locale=tr&langs_count=8">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&locale=tr&langs_count=8" alt="En çok kullanılan diller" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&theme=transparent&locale=tr" alt="Katkı serisi" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&theme=dark&locale=tr">
+    <img src="https://streak-stats.demolab.com?user=berkayyalcin7&hide_border=true&locale=tr" alt="Katkı serisi" />
+  </picture>
 </p>
 
 ---
