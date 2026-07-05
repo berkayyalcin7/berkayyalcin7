@@ -99,8 +99,7 @@
 </table>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berkayyalcin7&show_icons=true&hide_border=true&locale=tr&bg_color=00000000&title_color=10b981&icon_color=10b981&text_color=8b949e&ring_color=10b981" alt="GitHub istatistikleri" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkayyalcin7&layout=compact&hide_border=true&locale=tr&langs_count=8&bg_color=00000000&title_color=10b981&text_color=8b949e" alt="En çok kullanılan diller" />
+  <img src="github-metrics.svg" alt="GitHub istatistikleri ve en çok kullanılan diller" width="95%" />
 </p>
 
 <p align="center">
@@ -110,7 +109,7 @@
 ## 🏆 Başarımlar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berkayyalcin7&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub kupaları" />
+  <img src="achievements.svg" alt="GitHub başarımları" width="95%" />
 </p>
 
 ## 🐍 Katkı Yılanı
