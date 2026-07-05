@@ -106,12 +106,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berkayyalcin7&custom_title=Katk%C4%B1%20Grafi%C4%9Fi&bg_color=00000000&color=8b949e&line=10b981&point=3b82f6&area=true&area_color=10b981&hide_border=true" width="95%" alt="Katkı grafiği" />
 </p>
 
-## 🏆 Başarımlar
-
-<p align="center">
-  <img src="achievements.svg" alt="GitHub başarımları" width="95%" />
-</p>
-
 ## 🐍 Katkı Yılanı
 
 <p align="center">
