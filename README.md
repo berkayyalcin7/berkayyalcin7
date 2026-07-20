@@ -28,7 +28,7 @@
 
 ## 🚀 Hakkımda
 
-- 🏢 **YKK Türkiye**'de Yazılım Geliştirme Uzmanı — kurumsal ERP & portal çözümleri, mikroservis mimarileri, entegrasyonlar
+- 🏢 Yazılım Geliştirme Uzmanı — kurumsal ERP & portal çözümleri, mikroservis mimarileri, entegrasyonlar
 - 📦 **Open source araçlar** geliştiriyorum: [trkit](https://github.com/berkayyalcin7/trkit) (Türkiye'ye özgü utility kit) ve [locakit](https://github.com/berkayyalcin7/locakit) (AI agent'lar için i18n motoru) — kurmadan önce [tarayıcıda canlı deneyebilirsiniz](https://berkayyalcin.dev/araclar)
 - 📝 [berkayyalcin.dev](https://berkayyalcin.dev)'de yazılım üzerine **blog** yazıyorum
 - 🎓 Trakya Üniversitesi — Bilgisayar Mühendisliği
